@@ -1,5 +1,7 @@
-# zoo-starter-code
+# webdev_zoo
 
-This repository is the website starter code for Assignment 1 - Zoo.
+Group member:
 
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+Camilla Cheng - camillac
+
+[Link to website](https://camillac.github.io/webdev_zoo/)
