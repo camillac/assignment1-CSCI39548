@@ -1,0 +1,35 @@
+body {
+  font-family: Gill Sans, sans-serif;
+  background-color: #ffb296;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.button {
+  background-color: black;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button_red {
+  transition-duration: 0.4s;
+}
+
+.button_red:hover {
+  background-color: #f7533e;
+  color: white;
+}
+
+p{
+  font-size: 22px;
+}
