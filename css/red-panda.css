@@ -1,7 +1,9 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: #cbf7cf;
+  background-color: #ffb296;
   text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .button {
@@ -19,15 +21,15 @@ body {
   cursor: pointer;
 }
 
-.button_green {
+.button_red {
   transition-duration: 0.4s;
 }
 
-.button_green:hover {
-  background-color: #4CAF50;
+.button_red:hover {
+  background-color: #f7533e;
   color: white;
 }
 
-h3.ex{
-  padding-bottom: 10px;
+p{
+  font-size: 22px;
 }
