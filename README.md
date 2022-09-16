@@ -1,4 +1,4 @@
-# CSCI 39548 Web Development: Assignment 1 - Zoo
+# CSCI 39548: Assignment 1 - Zoo
 
 Group member:
 
